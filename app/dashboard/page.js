@@ -1,6 +1,8 @@
 import Link from "next/link";
 
 export default function Dashboard() {
+  //max-w-6xl is 1152px
+  //max-w-3xl is 768px
   return (
     <main className="min-h-screen bg-slate-50 px-6 py-10">
       <Link href="/dashboard"></Link>

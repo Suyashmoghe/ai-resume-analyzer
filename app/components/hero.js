@@ -6,7 +6,7 @@ export default function Hero() {
       <h1 className="font-bold text-3xl text-slate-900 md:text-5xl">
         Build a Resume That Gets You Hired
       </h1>
-      <p className="mt-6 tx-lg text-slate-600">
+      <p className="mt-6 text-lg text-slate-600">
         Analyze your resume, improve your ATS score, and discover how well your
         skills match your dream job.
       </p>
